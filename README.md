@@ -1,6 +1,6 @@
-# Postfix Expression
+# Tree Traversal AST
 
-This is an implementation of a program that prints postfix and prefix patterns of the given infix expressions and evaluates them.
+Given an infix expression, the code parser it according to the grammar given in [calc.yy](https://github.com/KSVSC/TreeTraversal-VisitorDesignPattern/blob/main/astcpp-visitor_working/calc.yy) and constructs an AST. It does tree-traversal procedures to prints postfix and prefix patterns of the given infix expressions and evaluate them.
 
 ## Installation
 
